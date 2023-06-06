@@ -1,0 +1,22 @@
+{
+  "name": "falseo",
+  "version": "1.0.0",
+  "description": "Datos falsos",
+  "main": "falseo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanVazquezL/Falseo.git"
+  },
+  "keywords": [
+    "falseo"
+  ],
+  "author": "Ivan Vzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanVazquezL/Falseo/issues"
+  },
+  "homepage": "https://github.com/IvanVazquezL/Falseo#readme"
+}
